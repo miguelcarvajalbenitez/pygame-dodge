@@ -1,12 +1,10 @@
+
+[Watch the gameplay video](gameplay.mp4)
+https://github.com/user-attachments/assets/57291dcb-b3d1-4dd0-8985-e33e5cb79d64
+
 # Moving Player Game - Pygame
 
 Two-player arcade game made with Pygame. Obstacles fall from the top of the window and the players have to dodge them. Every obstacle that leaves the screen gives one point.
-
-## Gameplay video
-
-<video src="gameplay.mp4" controls width="640"></video>
-
-[Watch the gameplay video](gameplay.mp4)
 
 ## How to play
 
